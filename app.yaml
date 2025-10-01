@@ -67,7 +67,7 @@ Resources:
 
 Outputs:
   LambdaRoleARN:
-    Description: Duc.CH hello world
+    Description: Duc.CH hello world 1
     Value: !GetAtt LambdaRole.Arn
 
 
